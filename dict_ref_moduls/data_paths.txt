@@ -1,0 +1,5 @@
+data_origin_path = 'C:/Users/User/Desktop/Росстат/Проект_Датасеты/Датасеты/Демография/!Датасет_демография/0_origin_data/'
+incoming_data_path = 'C:/Users/User/Desktop/Росстат/Проект_Датасеты/Датасеты/Демография/!Датасет_демография/1_inсoming_data/'
+prepared_data_path = 'C:/Users/User/Desktop/Росстат/Проект_Датасеты/Датасеты/Демография/!Датасет_демография/2_prepared_data/'
+delta_path = 'C:/Users/User/Desktop/Росстат/Проект_Датасеты/Датасеты/Демография/!Датасет_демография/3_ready_dataset/'
+dict_path = 'C:/Users/User/Desktop/Росстат/Проект_Датасеты/Датасеты/Демография/!Датасет_демография/!workspace/dict_ref_moduls/'
